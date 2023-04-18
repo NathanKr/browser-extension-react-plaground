@@ -1,5 +1,5 @@
 <h2>Motivation</h2>
-I all ready know to create <a href='https://github.com/NathanKr/browser-extension-simple-vanilla-js-plaground'>simple browser extension using vanila js</a>. However , its is not using typescript and i prefer to use react as the popup html - so this repository will implement it using ts , react and vite 
+I all ready know to create <a href='https://github.com/NathanKr/browser-extension-simple-vanilla-js-plaground'>simple browser extension using vanila js</a>. However , its is not using typescript and i prefer to use react as the popup html - so this repository will implement it using ts , react , css and vite 
 
 <h2>Installation</h2>
 <ul>
@@ -8,8 +8,6 @@ I all ready know to create <a href='https://github.com/NathanKr/browser-extensio
 <li>check <a href='https://github.com/NathanKr/browser-extension-simple-vanilla-js-plaground'>here</a> how to do this for chrome and firefox</li>
 </ul>
 
-<h2>Cross browser implementation</h2>
-I will use webextension-polyfill for this
 
 <h2>Points of interest</h2>
 <ul>
