@@ -1,0 +1,11 @@
+{
+    "name": "React Extension Name",
+    "version": "1.0.0",
+    "description": "My React Extension Description",
+    "manifest_version": 3,
+    "author": "Nathan Krasney",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "My action title"
+    }
+  }
